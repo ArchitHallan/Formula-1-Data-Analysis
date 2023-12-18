@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to the Formula 1 Championship Analysis! This project aims to unravel the secrets behind the success of the top-winning Formula 1 teams over the last two decades. We delve into various factors that contribute to a team's ability to consistently reach the podium. Our analysis provides valuable insights for Team Coaches and enthusiasts looking to understand what it takes to excel in this elite motorsport.
-![image](https://github.com/ArchitHallan/Formula-1-Data-Analysis/assets/138190914/dc09fd10-0015-4804-b010-3eb4043f0b66)
+Welcome to the Formula 1 Championship Analysis! This project aims to unravel the secrets behind the success of the top-winning Formula 1 teams over the last two decades. We delve into various factors that contribute to a team's ability to consistently reach the podium. This analysis provides valuable insights for Team Coaches and enthusiasts looking to understand what it takes to excel in this elite motorsport.
 
+![Formula 1](https://github.com/ArchitHallan/Formula-1-Data-Analysis/assets/138190914/dc09fd10-0015-4804-b010-3eb4043f0b66)
 
 ## Mission Statement
 
